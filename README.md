@@ -1,1 +1,1 @@
-![Home Page](./assets/home-page.png)
+![Home Page](./assets/quizTracker.png)
